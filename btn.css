@@ -40,12 +40,12 @@ h2{
     background: black;
     color:#fff;
 }
-@media(max-width:598px){
+@media(max-width:572px){
     body{
         background-image:linear-gradient(rgba(0,0,0,0.70),rgba(0,0,0,0.70)),url(image/menu.jpg);
         background-position: center;
         background-size: cover;
-        margin-top: 65%;
+        margin-top: 95%;
         height: 100vh;
         width: 100%;
         background-repeat: no-repeat;
@@ -56,22 +56,22 @@ h2{
     }
     h1{
         color: #fff;
-        font-size: 45px;
+        font-size: 65px;
     }
     h2{
         color:#fff;
-        font-size: 35px;
+        font-size: 45px;
     }
     .page{
-        font-size: 21px;
+        font-size: 31px;
         font-weight: bold;
     }
     .space{
-        margin-left: 17px;
+        margin-left: 27px;
     }
     .pad{
-        padding: 12px 17px;
-        font-size: 23px;
+        padding: 15px 25px;
+        font-size: 33px;
         font-weight: bold;
     }
     .pad:hover{
